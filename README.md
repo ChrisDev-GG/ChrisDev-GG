@@ -27,7 +27,7 @@ Experiencia:
 
 ## 💼 Disponibilidad
 
-Buscando oportunidades remotas como desarrollador, idealmente en equipos pequeños donde pueda aportar ideas y ver el impacto de mi trabajo.
+Buscando oportunidades remotas como desarrollador en equipos donde pueda aportar ideas y ver el impacto de mi trabajo.
 
 ## 📬 Contacto
 

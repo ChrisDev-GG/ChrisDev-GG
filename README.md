@@ -20,7 +20,7 @@ Experiencia:
 ## 🎓 Formación
 
 - Ingeniería en Informática — I.A.C.C. (2026)
-- Bootcamp Data Science - SENCE + DesafioLatam (2026)
+- Bootcamp Data Science — SENCE + DesafioLatam (2026)
 - Analista Programador — I.P. Santo Tomás (2023)
 - Scrum Foundation Professional Certificate (SFPC)
 - Microsoft Azure Fundamentals
